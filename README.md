@@ -7,7 +7,7 @@ Packages (If you go in the IDE, and hover the mouse on the package, you can clic
 ###
 
 # Controls:
-<br>W / UPARROW - Walk Foward
+<br>W / UPARROW - Walk Forward
 <br>A - Walk Left
 <br>S / DOWNARROW - Walk Backwards
 <br>D - Walk Right
